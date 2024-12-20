@@ -1,0 +1,6 @@
+DEBUT
+NUM
+123
+"Hello World"
+SI 123 < 456 ALORS FAIRE AFFICHE "Test" FIN
+FIN
